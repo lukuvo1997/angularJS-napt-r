@@ -1,0 +1,1 @@
+AngularJS használatával készítettem egy eseménykezelõt, kezdõ szint.
