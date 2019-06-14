@@ -1,0 +1,18 @@
+.kisures{
+	padding-top: 50px;
+}
+.termek{
+	background-color: #f1f1f1; 
+	padding: 10px; 
+	text-align: center;
+}
+
+.esemenytabla{
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-top: 10px;
+}
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
