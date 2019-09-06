@@ -1,1 +1,1 @@
-AngularJS használatával készítettem egy eseménykezelõt, kezdõ szint.
+AngularJS hasznÃ¡latÃ¡val kÃ©szÃ­tettem egy esemÃ©nykezelÅ‘t.
